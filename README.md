@@ -11,7 +11,7 @@
 ---
 
 ## 📌 Visão Geral  
-O **CineGen** é um sistema de IA híbrido que combina **redes neurais LSTM** com **regras probabilísticas** para gerar trailers cinematográficos coerentes e dinâmicos. Projetado para produtoras de cinema e criadores de conteúdo, o sistema automatiza a criação de sequências narrativas, garantindo alinhamento com padrões de gênero (ação, drama, suspense) e validação contextual em tempo real.
+O **CineGen** é um sistema de IA híbrido que combina **redes neurais LSTM** com **regras probabilísticas** para gerar trailers cinematográficos coerentes e dinâmicos. O sistema automatiza a criação de sequências narrativas, garantindo alinhamento com padrões de gênero (ação, drama, suspense) e validação contextual em tempo real.
 
 ---
 
