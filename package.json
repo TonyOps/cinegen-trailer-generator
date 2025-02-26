@@ -1,0 +1,12 @@
+{
+  "name": "trailer-analysis",
+  "version": "1.0.0",
+  "description": "Trailer scene analysis and generation using machine learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 main.py"
+  },
+  "dependencies": {
+    "tensorflow": "^2.12.0"
+  }
+}
