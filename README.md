@@ -82,4 +82,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para detalhes.
 
 ---
 
-*Desenvolvido com ❤️ por [Seu Nome] | [LinkedIn](https://www.linkedin.com/in/antoniel-de-melo-sousa/) | [Portfólio](https://github.com/TonyOps/tonyops)*  
+*Desenvolvido por  [LinkedIn](https://www.linkedin.com/in/antoniel-de-melo-sousa/) | [Portfólio](https://github.com/TonyOps/tonyops)*  
