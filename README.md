@@ -49,9 +49,6 @@ cd cinegen-trailer-generator
    ```bash
    python main.py --generate --cenas 10 --output meu_trailer.json
    ```  
-   *Parâmetros Opcionais*:  
-   - `--contexto`: Define contexto inicial (L/M/H).  
-   - `--genero`: Força um gênero específico (ex: `--genero acao`).  
 
 ---
 
