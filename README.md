@@ -77,9 +77,5 @@ Contribuições são bem-vindas! Siga estes passos:
 
 ---
 
-## 📄 Licença  
-Distribuído sob a licença MIT. Veja `LICENSE` para detalhes.  
-
----
 
 *Desenvolvido por  [LinkedIn](https://www.linkedin.com/in/antoniel-de-melo-sousa/) | [Portfólio](https://github.com/TonyOps/tonyops)*  
