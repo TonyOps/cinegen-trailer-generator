@@ -3,16 +3,16 @@
 
 ![Workflow Diagram](https://via.placeholder.com/800x400.png?text=AI+Trailer+Generation+Workflow)  
 
-<img src="https://firebasestorage.googleapis.com/v0/b/antoniel-9832e.appspot.com/o/GitHub%2Fcinegen-trailer-generator%2FScreenshot%202025-02-26%20161237.png?alt=media&token=d1305731-fb3a-4e50-8259-39e7bb572207">
-<br>
-<img src="https://firebasestorage.googleapis.com/v0/b/antoniel-9832e.appspot.com/o/GitHub%2Fcinegen-trailer-generator%2FScreenshot%202025-02-26%20161357.png?alt=media&token=76a32c43-66e6-409c-b517-813bf418faf4">
-
 ---
 
 ## 📌 Visão Geral  
 O **CineGen** é um sistema de IA híbrido que combina **redes neurais LSTM** com **regras probabilísticas** para gerar trailers cinematográficos coerentes e dinâmicos. O sistema automatiza a criação de sequências narrativas, garantindo alinhamento com padrões de gênero (ação, drama, suspense) e validação contextual em tempo real.
 
 ---
+
+<img src="https://firebasestorage.googleapis.com/v0/b/antoniel-9832e.appspot.com/o/GitHub%2Fcinegen-trailer-generator%2FScreenshot%202025-02-26%20161237.png?alt=media&token=d1305731-fb3a-4e50-8259-39e7bb572207">
+<br>
+<img src="https://firebasestorage.googleapis.com/v0/b/antoniel-9832e.appspot.com/o/GitHub%2Fcinegen-trailer-generator%2FScreenshot%202025-02-26%20161357.png?alt=media&token=76a32c43-66e6-409c-b517-813bf418faf4">
 
 ## ✨ Recursos Principais  
 - **Modelo Híbrido**: Integração de redes neurais temporais (LSTM) + regras de transição estilo Markov.  
